@@ -2,3 +2,4 @@ This repository contains projects and exercises completed during my Node.js trai
 
 🛠️ Topics Covered
       => Node.js Basics
+      => Created a app using Express js (Day 2 branch)
